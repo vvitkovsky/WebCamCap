@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebCamCap", "WebCamCap.pyproj", "{36B881E9-0ACE-4704-ADA8-CD27C63C56FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B881E9-0ACE-4704-ADA8-CD27C63C56FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B881E9-0ACE-4704-ADA8-CD27C63C56FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C11390-20C6-43EE-91DE-7F7A64A75F58}
+	EndGlobalSection
+EndGlobal
